@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "The supplementary material for paper"
+authors:
+  - family-names: Zakir
+    given-names: Raina
+    orcid: https://orcid.org/0000-0002-2419-3789
+title: "Supplementary material for paper'Miscommunication enhances the accuracy of consensus in robot swarms
+using cross-inhibition for decision-making'"
+version:
+doi: 
+date-released: 2023-07-17
