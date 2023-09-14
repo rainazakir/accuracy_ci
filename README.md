@@ -1,10 +1,9 @@
-# accuracy_ci
-Supplementary material for paper "Miscommunication enhances the accuracy of consensus in robot swarms using cross-inhibition for decision-making"
+Supplementary material for paper "Miscommunication between robots can improve group accuracy in best-of-n decision-making"
 
 The repo includes:
 
-   *  Source of the Kilobot software for all the decision strategies used within the paper;
+   *  Source code of the Kilobot software for all the collective perception scenario analysed within the paper.
    *  The ARGoS simulation code (configuration file, robot control algorithm, Kilogrid Loop function and Kilogrid layout generation files).
    *  The code for Gillespie analysis
    *  The mathematical analysis (including the equation for bifurcation point in Mathematica)
-   *  Some real robot demonstrations
+   *  Videos of real robot demonstrations
